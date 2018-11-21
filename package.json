@@ -24,7 +24,7 @@
     "orbit-db-keystore": "~0.1.0",
     "orbit-db-kvstore": "~1.4.0",
     "orbit-db-pubsub": "orbitdb/orbit-db-pubsub#cf6a9c38feb599503cf762633d152ec1de0b312f",
-    "orbit-db-store": "~2.5.3"
+    "orbit-db-store": "projectaspen/orbit-db-store#wait-process-queue"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
